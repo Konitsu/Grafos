@@ -1,6 +1,6 @@
 import util.*;
 
-public class Testes {
+public class TestesPackageUtil {
     public static void main(String[] args) {
         String msg = "Int";
         int i = util.Read.Int(msg);
